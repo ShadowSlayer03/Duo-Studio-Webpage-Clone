@@ -352,7 +352,7 @@ let tl4 = gsap.timeline({
     scroller: ".main",
     trigger: ".toggle-h2",
     start: "top 25%",
-    markers: true,
+    //markers: true,
   }
 });
 
