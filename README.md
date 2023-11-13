@@ -1,6 +1,6 @@
 # Duo-Studio Website Clone
 
-This repository contains a clone of the Duo-Studio home webpage. The content and design of this website are the intellectual property of Duo Studio (original website: [Duo Studio Website]([https://duo-studio.co/](https://duo-studio.co/)). Please note that cloning and hosting websites without proper authorization may infringe on copyright and intellectual property rights.
+This repository contains a clone of the Duo-Studio home webpage. The content and design of this website are the intellectual property of Duo Studio (original website: [Duo Studio Website](https://duo-studio.co/). Please note that cloning and hosting websites without proper authorization may infringe on copyright and intellectual property rights.
 
 ## Description
 
