@@ -12,4 +12,4 @@ This repository is a clone of the Duo-Studio website, created for [educational p
 - The content and design are the property of Duo Studio.
 
 ## Live Preview
-This webpage is hosted at [https://duo-studio-webpage-clone.netlify.app](https://duo-studio-webpage-clone.netlify.app)
+This webpage is hosted at [https://duo-studio-webpage-clone.netlify.app/](here)
